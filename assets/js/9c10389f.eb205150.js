@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2084],{4285:e=>{e.exports=JSON.parse('[{"label":"log","permalink":"/solution-forward-foundry/blog/tags/log","count":1},{"label":"sprint","permalink":"/solution-forward-foundry/blog/tags/sprint","count":1}]')}}]);

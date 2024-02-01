@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1068],{1959:s=>{s.exports=JSON.parse('{"label":"sprint","permalink":"/solution-forward-foundry/blog/tags/sprint","allTagsPath":"/solution-forward-foundry/blog/tags","count":1,"unlisted":false}')}}]);

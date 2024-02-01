@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8129],{2729:s=>{s.exports=JSON.parse('{"label":"log","permalink":"/solution-forward-foundry/blog/tags/log","allTagsPath":"/solution-forward-foundry/blog/tags","count":1,"unlisted":false}')}}]);
